@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'bebas_neueregular';
+    src:url(../font/BebasNeue-webfont.ttf) format('truetype');
+}
+.a{
+    font-family: BebasNeue-webfont;
+    font-size: 45px;
+}
